@@ -1,4 +1,4 @@
-# MSCS_634_ProjectDeliverable_1
+
 # Advanced Data Mining Project – Deliverable 1
 
 ## Dataset
